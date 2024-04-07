@@ -7,8 +7,11 @@ This project utilizes deep learning techniques to classify brain tumor types usi
 FEATURES
 
 1.Input images are preprocessed using OpenCV, a powerful library for image processing in Python.
+
 2.The deep neural network architecture is implemented using Keras, which includes Conv2D and MaxPooling2D layers for feature extraction.
+
 3.The model achieves an impressive accuracy of 97%, making it highly reliable for brain tumor classification.
+
 4.Seaborn is used for visualization of model performance metrics such as accuracy, loss, and confusion matrix.
 
 USAGE
